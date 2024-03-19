@@ -2,7 +2,7 @@
 
 The following project contains a simple web application that fetches and displays data from their own API Introducing basic concepts of connecting a Vue.js frontend to a Lumen API.
 
-# Studio Ghibli: A Delightful Web Experience
+# Studio Ghibli simple web app
 
 Welcome to the repository of Studio Ghibli API, a developing of a web application where back-end and front-end matches to build a guide through Hayao Miyazaki's creations and relevant data of each movie.
 
